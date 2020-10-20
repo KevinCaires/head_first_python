@@ -45,4 +45,6 @@ def entry_page() -> 'html':
         the_title='Procurando por letras!?'
     )
 
-app.run(debug=True)
+
+if __name__=='__main__':
+    app.run(debug=True)
