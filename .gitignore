@@ -1,6 +1,9 @@
 # Pycache
-/__pycache__
+__pycache__
 *.pyc
 
 # Vscode
 .vscode
+
+# Log files
+*.log
